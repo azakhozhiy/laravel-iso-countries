@@ -35,7 +35,7 @@ Currency::find('EUR')->countries;
 You can install the package via composer:
 
 ```bash
-composer require io238/laravel-iso-countries
+composer require azakhozhiy/laravel-iso-countries
 ```
 
 The latest version of this package requires PHP version 8.0 or above. If you need support for PHP 7.4, please install
